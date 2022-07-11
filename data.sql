@@ -1,0 +1,20 @@
+INSERT INTO `user`
+(`id_user`, `first_name`, `last_name`, `email`, `phone`, `comments`, `status`) VALUES
+(NULL, 'Kera', 'Sakti', 'kerasakti@gmail.com', '989876493872', '', 'active'),
+(NULL, 'Cok', 'Bagus', 'cokbagus@gmail.com', '837268938276', '', 'active'),
+(NULL, 'Nimo', 'Mahendra', 'nimomahendra@gmail.com', '928373829139', '', 'active'),
+(NULL, 'Dewi', 'Kharisma', 'dewikharisma@gmail.com', '239078562827', '', 'active'),
+(NULL, 'Sukma', 'Wahyuni', 'sukmawahyuni@gmail.com', '987654321089', '', 'active'),
+(NULL, 'Surya', 'Dharma', 'suryadharma@gmail.com', '654536261524', '', 'active'),
+(NULL, 'Ahimsa', 'Raka', 'ahimsaraka@gmail.com', '102938475647', '', 'active'),
+(NULL, 'Kadek', 'Ardi', 'dekardi@gmail.com', '908976542415', '', 'active'),
+(NULL, 'Diva', 'Juni', 'divajuni@gmail.com', '218937463829', '', 'active'),
+(NULL, 'Anggun', 'Roshita', 'anggunroshita@gmail.com', '625342637474', '', 'active'),
+(NULL, 'Ayu', 'Devina', 'ayudevina@gmail.com', '172635489558', '', 'active'),
+(NULL, 'Juni', 'Pramayanthi', 'juniprama@gmail.com', '287690543726', '', 'active'),
+(NULL, 'Ayu', 'Paramitha', 'ayuparamitha@gmail.com', '088976543727', '', 'active'),
+(NULL, 'Diah', 'Ningsih', 'diahningsih@gmail.com', '325467372646', '', 'active'),
+(NULL, 'Listya', 'Wati', 'listyawati@gmail.com', '239876453289', '', 'active'),
+(NULL, 'Mega', 'Jena', 'megajena@gmail.com', '987896543728', '', 'active'),
+(NULL, 'Loucian', 'Cassa', 'louciancassa@gmail.com', '282938273694', '', 'active'),
+(NULL, 'Tude', 'Mustika', 'tudemustika@gmail.com', '872673847898', '', 'active')
